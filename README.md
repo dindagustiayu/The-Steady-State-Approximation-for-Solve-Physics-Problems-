@@ -76,6 +76,7 @@ Let $v_{0}=5$ m/s and the list of coefficient of friction be [0.62, 0.3, 0.45, 0
 
 # P7.4
 Heisenberg's uncertainty relation
+# P7.4 - Heisenberg's uncertainty relation
 Heisenberg proved in 1972 that we cannot exactly know the velocity of an article and its position _at the same time_. This means that if we know precisely the velocity of a particle, we will not be able to have a precise mesurement of the position of the particle, and vice versa.
 This can be written mathematically as:
 
