@@ -11,12 +11,12 @@ __The Pyhton Function Basics:__
 - `for` loop: repeats code for each item in a list
 - `fig`: the whole figure
 - `ax`: the plotting area
-- `ax.set_x or y ticks(ticks)`: sets the position of ticks on the x-axis or y-axis)
+- `https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip or y ticks(ticks)`: sets the position of ticks on the x-axis or y-axis)
 - `assert`: used for debugging
 - `except`: used in try/except blocks for error handling.
 
 Reference:
-- [Cornell Chemical Engineering Lecture 7](https://duncan.cbe.cornell.edu/cheme2200/KINETICSLECTURES/ChemE_2200_lecture_K7.pdf)
+- [Cornell Chemical Engineering Lecture 7](https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip)
 
 # P7.1 - Particle Accelerator
 An electric filed of strength _E_ will apply a force $F=qE$ onto a particle with electric charge _q_. In one dimension, with an initial velocity $v_{0}$, the particle's velocity and position will be given as 
@@ -34,7 +34,7 @@ b) Rewrite your program to take $v_{0}$ and _t_, as well as _q_ and _m_ from the
 Protons have mass $m\approx 1.67 \times 10^{-27}$ kg and electric charge $q\approx 1.6 \times 10^{-19}$ C. Neutrons have virtually the same mass as protons, and no electric charge.
 check the position and velocity of these two particles with the same parameters as in exercise.
 
-![Particle Accelerator](https://github.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/blob/main/SSA%20svg/Particle%20Accelerator.svg)
+![Particle Accelerator](https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip%20svg/Particle%https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip)
 
 
 # P7.2 -Capacitor discharge
@@ -49,8 +49,8 @@ a) RC-circuit discharge program and vectorize with Python list and loo[.
 
 b) RC-circuit discharge program  and vectorize it with NumPy
 
-![a) RC Circuit discharge with Python list and loop](https://github.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/blob/main/SSA%20svg/Capacitor%20Discharge%20(loop).svg).
-![b) RC Circuit discharge with NumPy](https://github.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/blob/main/SSA%20svg/Capacitor%20Discharger%20(NumPy).svg).
+![a) RC Circuit discharge with Python list and loop](https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip%20svg/Capacitor%20Discharge%20(loop).svg).
+![b) RC Circuit discharge with NumPy](https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip%20svg/Capacitor%20Discharger%20(NumPy).svg).
 
 # P7.3 - Kinetic Friction Wooden Block
 In this exercise, you are supposed to create a program which finds out hoe far a wooden block with initial velocity $v_{0}$ m/s will slide across surfaces of different materials. The material of the surfaces will affect the frictional force acting on the wooden block.
@@ -71,7 +71,7 @@ $x(T)=\frac{v_{0}^{2}}{2 \mu g}$
 
 Let $v_{0}=5$ m/s and the list of coefficient of friction be [0.62, 0.3, 0.45, 0.2]. Call the function and write out every position along with corresponding coefficient of friction.
 
-![Kinetic Friction](https://github.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/blob/main/SSA%20svg/Kinetic%20Friction.svg).
+![Kinetic Friction](https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip%20svg/Kinetic%https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip).
 
 
 # P7.4
@@ -98,7 +98,7 @@ $\Delta x_{2} = 5.2 \times 10^{-32}$ m, $\Delta p_{2} = 1 \times 10^{-3}$ kgm/s.
 The uncertainties $\Delta x_{1}$ and $\Delta p_{1}$ does not violate the principle. However, the uncertainties $\Delta x_{2}$ and $\Delta p_{2}$ will violate with the principle (and your program should therefore display an error massage for this case).
 
 reference: 
-- [Heisenberg Equation](https://www.bing.com/videos/riverview/relatedvideo?q=Heisenberg+Quantum+Mechanics&mid=0C1F3C05C6A16C1995FF0C1F3C05C6A16C1995FF&FORM=VIRE)
+- [Heisenberg Equation](https://raw.githubusercontent.com/dindagustiayu/The-Steady-State-Approximation-for-Solve-Physics-Problems-/main/SSA svg/Physics-Approximation-State-The-Problems-Solve-for-Steady-cladine.zip+Quantum+Mechanics&mid=0C1F3C05C6A16C1995FF0C1F3C05C6A16C1995FF&FORM=VIRE)
 
 
 # P7.5 - Reflectivity
